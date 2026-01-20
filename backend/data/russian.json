@@ -1,0 +1,129 @@
+{
+  "words": [
+    {
+      "id": "ru_100",
+      "word": "существо",
+      "language": "ru",
+      "translation": {
+        "uz": "mavjudot"
+      },
+      "definition": "Любой объект, обладающий жизнью или существованием",
+      "hypernyms": [],
+      "hyponyms": ["ru_050"],
+      "related_uz": "uz_100"
+    },
+    {
+      "id": "ru_050",
+      "word": "животное",
+      "language": "ru",
+      "translation": {
+        "uz": "hayvon"
+      },
+      "definition": "Живое существо, способное к движению и питанию",
+      "hypernyms": ["ru_100"],
+      "hyponyms": ["ru_030"],
+      "related_uz": "uz_050"
+    },
+    {
+      "id": "ru_030",
+      "word": "млекопитающее",
+      "language": "ru",
+      "translation": {
+        "uz": "sutemizuvchi"
+      },
+      "definition": "Класс животных, вскармливающих детёнышей молоком",
+      "hypernyms": ["ru_050"],
+      "hyponyms": ["ru_020"],
+      "related_uz": "uz_030"
+    },
+    {
+      "id": "ru_020",
+      "word": "хищник",
+      "language": "ru",
+      "translation": {
+        "uz": "yirtqich"
+      },
+      "definition": "Животное, питающееся другими животными",
+      "hypernyms": ["ru_030"],
+      "hyponyms": ["ru_002"],
+      "related_uz": "uz_020"
+    },
+    {
+      "id": "ru_002",
+      "word": "псовые",
+      "language": "ru",
+      "translation": {
+        "uz": "itdoshlar"
+      },
+      "definition": "Семейство млекопитающих отряда хищных",
+      "hypernyms": ["ru_020"],
+      "hyponyms": ["ru_001", "ru_013"],
+      "related_uz": "uz_002"
+    },
+    {
+      "id": "ru_001",
+      "word": "собака",
+      "language": "ru",
+      "translation": {
+        "uz": "it"
+      },
+      "definition": "Домашнее животное семейства псовых",
+      "hypernyms": ["ru_002"],
+      "hyponyms": ["ru_010", "ru_011", "ru_012"],
+      "related_uz": "uz_001"
+    },
+    {
+      "id": "ru_010",
+      "word": "овчарка",
+      "language": "ru",
+      "translation": {
+        "uz": "ovcharka"
+      },
+      "definition": "Порода служебных собак",
+      "hypernyms": ["ru_001"],
+      "hyponyms": [],
+      "related_uz": "uz_010"
+    },
+    {
+      "id": "ru_011",
+      "word": "бульдог",
+      "language": "ru",
+      "translation": {
+        "uz": "bulldog"
+      },
+      "definition": "Порода собак с мощным телосложением",
+      "hypernyms": ["ru_001"],
+      "hyponyms": [],
+      "related_uz": "uz_011"
+    },
+    {
+      "id": "ru_012",
+      "word": "такса",
+      "language": "ru",
+      "translation": {
+        "uz": "taksa"
+      },
+      "definition": "Порода собак с удлинённым телом",
+      "hypernyms": ["ru_001"],
+      "hyponyms": [],
+      "related_uz": "uz_012"
+    },
+    {
+      "id": "ru_013",
+      "word": "волк",
+      "language": "ru",
+      "translation": {
+        "uz": "bo'ri"
+      },
+      "definition": "Дикий хищник семейства псовых",
+      "hypernyms": ["ru_002"],
+      "hyponyms": [],
+      "related_uz": "uz_013"
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "lastUpdated": "2025-01-19",
+    "totalWords": 10
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "words": [
+    {
+      "id": "uz_100",
+      "word": "mavjudot",
+      "language": "uz",
+      "translation": {
+        "ru": "существо"
+      },
+      "definition": "Hayot yoki mavjudlikka ega bo‘lgan obyekt",
+      "hypernyms": [],
+      "hyponyms": ["uz_050"],
+      "related_ru": "ru_100"
+    },
+    {
+      "id": "uz_050",
+      "word": "hayvon",
+      "language": "uz",
+      "translation": {
+        "ru": "животное"
+      },
+      "definition": "Harakatlana oladigan va oziqlanadigan tirik mavjudot",
+      "hypernyms": ["uz_100"],
+      "hyponyms": ["uz_030"],
+      "related_ru": "ru_050"
+    },
+    {
+      "id": "uz_030",
+      "word": "sutemizuvchi",
+      "language": "uz",
+      "translation": {
+        "ru": "млекопитающее"
+      },
+      "definition": "Bolaqilarning sut bilan oziqlanishi bilan ajralib turadi",
+      "hypernyms": ["uz_050"],
+      "hyponyms": ["uz_020"],
+      "related_ru": "ru_030"
+    },
+    {
+      "id": "uz_020",
+      "word": "yirtqich",
+      "language": "uz",
+      "translation": {
+        "ru": "хищник"
+      },
+      "definition": "Boshqa hayvonlar bilan oziqlanadigan jonivor",
+      "hypernyms": ["uz_030"],
+      "hyponyms": ["uz_002"],
+      "related_ru": "ru_020"
+    },
+    {
+      "id": "uz_002",
+      "word": "itdoshlar",
+      "language": "uz",
+      "translation": {
+        "ru": "псовые"
+      },
+      "definition": "Yirtqichlar turkumiga mansub sutemizuvchilar oilasi",
+      "hypernyms": ["uz_020"],
+      "hyponyms": ["uz_001", "uz_013"],
+      "related_ru": "ru_002"
+    },
+    {
+      "id": "uz_001",
+      "word": "it",
+      "language": "uz",
+      "translation": {
+        "ru": "собака"
+      },
+      "definition": "Uy hayvoni, itdoshlarga mansub",
+      "hypernyms": ["uz_002"],
+      "hyponyms": ["uz_010", "uz_011", "uz_012"],
+      "related_ru": "ru_001"
+    },
+    {
+      "id": "uz_010",
+      "word": "ovcharka",
+      "language": "uz",
+      "translation": {
+        "ru": "овчарка"
+      },
+      "definition": "Xizmatkor itlar zotiga mansub",
+      "hypernyms": ["uz_001"],
+      "hyponyms": [],
+      "related_ru": "ru_010"
+    },
+    {
+      "id": "uz_011",
+      "word": "bulldog",
+      "language": "uz",
+      "translation": {
+        "ru": "бульдог"
+      },
+      "definition": "Mustahkam gavdali itlar zoti",
+      "hypernyms": ["uz_001"],
+      "hyponyms": [],
+      "related_ru": "ru_011"
+    },
+    {
+      "id": "uz_012",
+      "word": "taksa",
+      "language": "uz",
+      "translation": {
+        "ru": "такса"
+      },
+      "definition": "Uzun tanali it zoti",
+      "hypernyms": ["uz_001"],
+      "hyponyms": [],
+      "related_ru": "ru_012"
+    },
+    {
+      "id": "uz_013",
+      "word": "bo'ri",
+      "language": "uz",
+      "translation": {
+        "ru": "волк"
+      },
+      "definition": "Yovvoyi yirtqich jonivor",
+      "hypernyms": ["uz_002"],
+      "hyponyms": [],
+      "related_ru": "ru_013"
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "lastUpdated": "2025-01-19",
+    "totalWords": 10
+  }
+}
