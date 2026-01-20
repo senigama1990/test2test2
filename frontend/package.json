@@ -1,8 +1,8 @@
 {
-  "name": "corpus-frontend",
+  "name": "hyperlex-frontend",
   "version": "0.1.0",
   "private": true,
-  "description": "Клиент React для параллельного корпуса",
+  "description": "Клиент React для платформы HyperLex",
   "scripts": {
     "start": "webpack serve --mode development --open",
     "build": "webpack --mode production",
